@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242629;
+		background: #121212;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -317,7 +317,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: #34363b;
+		background: #121212;
 		border: solid 1px #36383c;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
@@ -379,7 +379,7 @@ input, select, textarea {
 		background-color: transparent;
 		border: 0;
 		border-radius: 0;
-		box-shadow: inset 0 0 0 2px #36383c;
+		box-shadow: inset 0 0 0 2px #121112;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
@@ -699,7 +699,7 @@ input, select, textarea {
 
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
-				background: #34363b;
+				background: #121212;
 				content: '';
 				display: inline-block;
 				font-size: 0.8em;
