@@ -241,7 +241,7 @@ input, select, textarea {
 		letter-spacing: 0.1em;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		text-transform: both;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -391,7 +391,7 @@ input, select, textarea {
 		padding: 0 2.5em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
+		text-transform: both;
 		white-space: nowrap;
 	}
 
@@ -1533,7 +1533,7 @@ input, select, textarea {
 						display: inline-block;
 						letter-spacing: 0.1em;
 						padding: 0 1.65em;
-						text-transform: uppercase;
+						text-transform: both;
 					}
 
 						#header nav > ul > li a.icon:before {
