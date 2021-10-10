@@ -1,0 +1,5 @@
+Default Portrait: 3024x4032
+Default Landscape: 4032x3024
+
+Standard Portrait:1512x2016
+Standard Landscape: 2016x1512
