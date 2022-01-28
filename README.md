@@ -1,3 +1,5 @@
+# Due to growing storage sizes we will be moving off of GitHub pages soon.
+
 # Perla The Dog
 ## For my stinky little dog
 
