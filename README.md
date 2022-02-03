@@ -1,4 +1,4 @@
-# Due to growing storage sizes we will be moving off of GitHub pages soon.
+# Due to growing storage sizes we have moved off of GitHub pages.
 
 # Perla The Dog
 ## For my stinky little dog
